@@ -2,7 +2,7 @@ import React from "react";
 import Home from "./pages/Home/Home";
 import About from "./pages/About/About";
 import Contact from "./pages/Contact/Contact";
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route,Redirect } from "react-router-dom";
 import Header from "./common/Header";
 import ServiceDetail from "./pages/ServiceDetail/ServiceDetail";
 import Faq from "./pages/Faq/Faq";
@@ -18,6 +18,7 @@ function App() {
     <>
       <Header />
       <Routes >
+        <Route path="/testyora/" element={<Home/>}/>
         <Route path="/" index element={<Home/>} />
         <Route path="/contact" element={<Contact/>} />
         <Route path="/about" element={<About/>} />

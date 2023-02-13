@@ -4,22 +4,22 @@
       "heading": "No Medicine, No Pain & No Side Effects!",
       "subheading":"Acupuncturist near you .",
       "description": "Discover traditional Chinese medicine delivered or Pickup from licensed acupuncturists, moxibustion, cupping therapists, and hijama practitioners all in one place",
-      "backgroundImg": "images/bg/bg-image-1.jpg",
-      "image" : "images/heroslider/heroslider-image-1.jpg"
+      "backgroundImg": "/testyora/images/bg/bg-image-1.jpg",
+      "image" : "/testyora/images/heroslider/heroslider-image-1.jpg"
     },
     "banner2": {
       "heading": "Acupuncture For Backpain",
       "subheading":"Moxibustion (MOXA) : Chiropractors ",
       "description": "Moxa is a material made from the dried leaves of the mug wort plant (Artemisia vulgaris), which is often used in traditional Chinese medicine. It is used to treat a wide range of health conditions, including pain, digestive disorders, and respiratory problems.",
-      "backgroundImg": "images/bg/bg-image-1.jpg",
-      "image" : "images/heroslider/heroslider-image-3.jpg"
+      "backgroundImg": "/testyora/images/bg/bg-image-1.jpg",
+      "image" : "/testyora/images/heroslider/heroslider-image-3.jpg"
     },
     "banner3": {
       "heading": "Acupuncture For Diabetes",
       "subheading":"Hijama Or Cupping Therapy",
       "description": "Hijama Or TCM cupping is typically performed by a trained practitioner, who will heat the air inside a glass or plastic cup and then place the cup on the skin. The heat creates a vacuum, which causes the skin to be pulled into the cup. The cups are typically left in place for about 10-15 minutes.",
-      "backgroundImg": "images/bg/bg-image-1.jpg",
-      "image" : "images/heroslider/heroslider-image-2.jpg"
+      "backgroundImg": "/testyora/images/bg/bg-image-1.jpg",
+      "image" : "/testyora/images/heroslider/heroslider-image-2.jpg"
     }
   },
   "Features": [
