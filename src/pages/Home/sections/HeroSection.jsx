@@ -17,7 +17,7 @@ function HeroSection(props) {
       }}
       modules={[Pagination]}
       className="heroslider-area heroslider-slider heroslider-animated tm-slider-dots tm-slider-dots-left slick-initialized slick-slider slick-dotted"
-      data-bgimage="images/bg/bg-image-1.jpg"
+      data-bgimage="/testyora/images/bg/bg-image-1.jpg"
       data-black-overlay="3"
       data-white-overlay="7"
       style={{

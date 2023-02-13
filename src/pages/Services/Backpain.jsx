@@ -3,7 +3,7 @@ import Breadcrumb from "../../common/Breadcrumb";
 import Footer from "../../common/Footer";
 
 const breadCrumb = {
-  backgroundImage: "images/bg/breadcrumb-bg.jpg",
+  backgroundImage: "/testyora/images/bg/breadcrumb-bg.jpg",
   heading: "Acupuncture for Backpain",
   links: [{ id: 1, link: "", text: "Home" }],
   activeLink: "backpain",
@@ -29,7 +29,7 @@ function BackPain() {
                 <div className="tm-service-details sticky-sidebar">
                   <img
                     className="tm-service-details-image"
-                    src="images/others/service-details.jpg"
+                    src="/testyora/images/others/service-details.jpg"
                     alt="service details image"
                   />
                   <h2>Acupuncture for Backpain</h2>

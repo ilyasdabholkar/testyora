@@ -4,7 +4,7 @@ import Footer from "../../common/Footer";
 import Accordian from "./components/Accordian";
 
 const breadCrumb = {
-  backgroundImage: "images/bg/breadcrumb-bg.jpg",
+  backgroundImage: "/testyora/images/bg/breadcrumb-bg.jpg",
   heading: "About FAQ",
   links: [{ id: 1, link: "", text: "Home" }],
   activeLink: "FAQ",

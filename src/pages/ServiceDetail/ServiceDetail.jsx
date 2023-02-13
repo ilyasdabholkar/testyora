@@ -5,7 +5,7 @@ import DetailLeft from "./sections/DetailLeft";
 import DetailRight from "./sections/DetailRight";
 
 const breadCrumb = {
-  backgroundImage: "images/bg/breadcrumb-bg.jpg",
+  backgroundImage: "/testyora/images/bg/breadcrumb-bg.jpg",
   heading: "Service Detail",
   links: [{ id: 1, link: "", text: "Home" }],
   activeLink: "Service Detail",

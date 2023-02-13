@@ -6,7 +6,7 @@ import ContactUsArea from "./sections/ContactUsArea";
 import Breadcrumb from "../../common/Breadcrumb";
 
 const breadCrumb = {
-  backgroundImage: "images/bg/breadcrumb-bg.jpg",
+  backgroundImage: "/testyora/images/bg/breadcrumb-bg.jpg",
   heading: "Contact Us",
   links: [{ id: 1, link: "", text: "Home" }],
   activeLink: "Contact",

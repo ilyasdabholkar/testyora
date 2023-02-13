@@ -9,7 +9,7 @@ function Services(props) {
   return (
     <div className="tm-section services-area tm-padding-section bg-white">
       <span className="bg-shape-left">
-        <img src="images/icons/bg-shape-1.png" alt="background shape" />
+        <img src="/testyora/images/icons/bg-shape-1.png" alt="background shape" />
       </span>
       <div className="container">
         <div className="row justify-content-center">

@@ -11,7 +11,7 @@ function Testimonials() {
       profile: "Financer",
       review:
         "I started seeing Dr. Robinson on the recommendation of my massage therapist.Massage therapy is the science of movement and function. Massage therapy will help anybody who experiences difficulty with movement strength and pain.",
-      photo: "images/authors/author-image-1.jpg",
+      photo: "/testyora/images/authors/author-image-1.jpg",
       ratings : 4
     },
     {
@@ -20,7 +20,7 @@ function Testimonials() {
       profile: "Supervisor",
       review:
         "Quae iusto consequatur consectetur velit at nulla et enim debitis. Eligendi modi consectetur laudantium. Ut quis nobis numquam omnis suscipit eum est omnis.Explicabo ipsum accusamus consectetur animi laudantium quia.",
-      photo: "images/authors/author-image-1.jpg",
+      photo: "/testyora/images/authors/author-image-1.jpg",
       ratings : 5
     },
     {
@@ -29,7 +29,7 @@ function Testimonials() {
       profile: "Marketer",
       review:
         "Molestias dicta non laboriosam eum ut eos et. Dignissimos temporibus sit quis aut itaque vel. Maiores a est. Id ut aspernatur aliquam cumque aut ut alias accusamus. Minus aperiam fugiat tempora aut repellendus voluptatem debitis sequi.",
-      photo: "images/authors/author-image-1.jpg",
+      photo: "/testyora/images/authors/author-image-1.jpg",
       ratings : 4
     },
   ];

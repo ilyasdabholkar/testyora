@@ -8,7 +8,7 @@ function Navbar() {
         <div className="header-bottominner">
           <div className="header-logo">
           <Link to="/">
-            <img height="80" src="images/logo/YaraLogo.png" alt="dialia logo" />
+            <img height="80" src="/testyora/images/logo/YaraLogo.png" alt="dialia logo" />
           </Link>
           </div>
           <nav className="tm-navigation">

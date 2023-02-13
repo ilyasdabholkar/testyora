@@ -46,7 +46,7 @@
     }
   ],
   "AboutUs": {
-    "backgroundImg" : "images/others/about-image-1.jpg",
+    "backgroundImg" : "/testyora/images/others/about-image-1.jpg",
     "heading" : "What Is Acupuncture ?",
     "paragraph1" : "Acupuncture is a form of traditional Chinese medicine that involves the insertion of thin needles into specific points on the body. These points, known as acupuncture points, are believed to be located along pathways in the body called meridians.",
     "paragraph2" : " Acupuncture is thought to restore balance to the body and promote health by stimulating the flow of energy (also known as qi or chi) along the meridians. Acupuncture is used to treat a wide range of health conditions, including pain, digestive disorders, and respiratory problems.",
