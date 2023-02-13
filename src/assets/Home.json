@@ -1,0 +1,152 @@
+{
+  "Hero": {
+    "banner1": {
+      "heading": "No Medicine, No Pain & No Side Effects!",
+      "subheading":"Acupuncturist near you .",
+      "description": "Discover traditional Chinese medicine delivered or Pickup from licensed acupuncturists, moxibustion, cupping therapists, and hijama practitioners all in one place",
+      "backgroundImg": "images/bg/bg-image-1.jpg",
+      "image" : "images/heroslider/heroslider-image-1.jpg"
+    },
+    "banner2": {
+      "heading": "Acupuncture For Backpain",
+      "subheading":"Moxibustion (MOXA) : Chiropractors ",
+      "description": "Moxa is a material made from the dried leaves of the mug wort plant (Artemisia vulgaris), which is often used in traditional Chinese medicine. It is used to treat a wide range of health conditions, including pain, digestive disorders, and respiratory problems.",
+      "backgroundImg": "images/bg/bg-image-1.jpg",
+      "image" : "images/heroslider/heroslider-image-3.jpg"
+    },
+    "banner3": {
+      "heading": "Acupuncture For Diabetes",
+      "subheading":"Hijama Or Cupping Therapy",
+      "description": "Hijama Or TCM cupping is typically performed by a trained practitioner, who will heat the air inside a glass or plastic cup and then place the cup on the skin. The heat creates a vacuum, which causes the skin to be pulled into the cup. The cups are typically left in place for about 10-15 minutes.",
+      "backgroundImg": "images/bg/bg-image-1.jpg",
+      "image" : "images/heroslider/heroslider-image-2.jpg"
+    }
+  },
+  "Features": [
+    {
+      "id": 1,
+      "heading": "Acupuncture Treatment",
+      "content": "According to traditional Chinese medicine, health is the result of a balance of two opposing forces called yin and yang. When yin and yang are in balance, the body is healthy, but when there is an imbalance, illness can occur.",
+      "icon": "flaticon-spa",
+      "backicon": "flaticon-spa"
+    },
+    {
+      "id": 2,
+      "heading": "Moxibustion Acupuncture ",
+      "content": "Moxa is a material made from the dried leaves of the mug wort plant (Artemisia vulgaris), which is often used in traditional Chinese medicine. It is used to treat a wide range of health conditions, including pain, digestive disorders, and respiratory problems.",
+      "icon": "flaticon-physical",
+      "backicon": "flaticon-physical"
+    },
+    {
+      "id": 3,
+      "heading": "Hijama Or Cupping Therapy.",
+      "content": "Hijama Or TCM cupping is typically performed by a trained practitioner, who will heat the air inside a glass or plastic cup and then place the cup on the skin. The heat creates a vacuum, which causes the skin to be pulled into the cup. The cups are typically left in place for about 10-15 minutes.",
+      "icon": "flaticon-acupuncture",
+      "backicon": "flaticon-acupuncture"
+    }
+  ],
+  "AboutUs": {
+    "backgroundImg" : "images/others/about-image-1.jpg",
+    "heading" : "What Is Acupuncture ?",
+    "paragraph1" : "Acupuncture is a form of traditional Chinese medicine that involves the insertion of thin needles into specific points on the body. These points, known as acupuncture points, are believed to be located along pathways in the body called meridians.",
+    "paragraph2" : " Acupuncture is thought to restore balance to the body and promote health by stimulating the flow of energy (also known as qi or chi) along the meridians. Acupuncture is used to treat a wide range of health conditions, including pain, digestive disorders, and respiratory problems.",
+    "paragraph3" : {
+        "heading" : "Steps In Acupuncture :",
+        "steps": [{
+            "id":1,
+            "text":"Start by introducing acupuncture and its history.Acupuncture is an ancient Chinese medical treatment that involves the insertion of thin needles into specific points on the body to relieve pain and treat various health conditions."
+        },
+        {
+            "id":2,
+            "text":" Explain how acupuncture works. According to traditional Chinese medicine, acupuncture works by balancing the flow of energy or qi in the body.By inserting needles into specific points on the body, acupuncturists aim to restore the balance of qi and alleviate symptoms."
+        },
+        {
+            "id":3,
+            "text":"Describe the conditions that acupuncture can treat. Acupuncture has been used to treat a wide range of conditions, including chronic pain, headaches, addiction, digestive disorders, and stress."
+        }]
+    }
+  },
+  "Services" : [
+    {
+      "id": 1,
+      "heading": "Pcos & Pcod Treatment (Gynecologist)",
+      "content":
+        "Aromatherapy uses plant materials and aromatic plant oils, including essential oils. It can be offered as a complementary therapy.",
+      "icon": "flaticon-rehabilitation",
+      "backicon": "flaticon-rehabilitation",
+      "link" : "gynecologist"
+    },
+    {
+      "id": 2,
+     "heading": "Acupuncture for Fertility",
+      "content":
+        "Physiotherapists spend years studying how the body works, how injuries impact performance & how to recover and repair injured tissues.",
+      "icon": "flaticon-physiotherapy",
+      "backicon": "flaticon-physiotherapy",
+      "link" : "serviceDetail"
+    },
+    {
+      "id": 3,
+      "heading": "Acupuncture for Autism children",
+      "content":
+        "Aromatherapy uses plant materials and arom atic plant oils,including essential oils. It can be offered as a complementary therapy.",
+      "icon": "flaticon-aromatherapy-spa-treatment",
+      "backicon": "flaticon-aromatherapy-spa-treatment",
+      "link" : "autism"
+    },
+    {
+      "id": 4,
+      "heading": "Acupuncture for Migraine",
+      "content":
+        "A personal injury from vehicle accident trauma is common many times effects of an vehicle injury are delayed or subtle.",
+      "icon": "flaticon-rehabilitation-1",
+      "backicon": "flaticon-rehabilitation-1",
+      "link" : "migraine"
+    },
+    {
+      "id": 5,
+      "heading": "Acupuncture for Backpain",
+      "content":
+        "This type of massage treatment is strictly for the purposes of rest and relaxation. massage technique is not designed for therapy.",
+      "icon": "flaticon-spa-1",
+      "backicon": "flaticon-spa-1",
+      "link": "backpain"
+    },
+    {
+        "id": 6,
+        "heading": "Acupuncture for Diabetics",
+        "content":
+          "A personal injury from vehicle accident trauma is common many times effects of an vehicle injury are delayed or subtle.",
+        "icon": "flaticon-accident",
+        "backicon": "flaticon-accident",
+        "link" : "diabetics"
+      },
+      {
+        "id": 7,
+        "heading": "Acupuncture for Spinal cord pain",
+        "content":
+          "A personal injury from vehicle accident trauma is common many times effects of an vehicle injury are delayed or subtle.",
+        "icon": "flaticon-accident",
+        "backicon": "flaticon-accident",
+        "link" : "serviceDetail"
+      },
+      {
+        "id": 8,
+        "heading": "Acupuncture for Join Pain",
+        "content":
+          "A personal injury from vehicle accident trauma is common many times effects of an vehicle injury are delayed or subtle.",
+        "icon": "flaticon-accident",
+        "backicon": "flaticon-accident",
+        "link" : "serviceDetail"
+      },
+      {
+        "id": 9,
+        "heading": "Acupuncture for Fertility",
+        "content":
+          "A personal injury from vehicle accident trauma is common many times effects of an vehicle injury are delayed or subtle.",
+        "icon": "flaticon-accident",
+        "backicon": "flaticon-accident",
+        "link" : "serviceDetail"
+      }
+  ]
+}
