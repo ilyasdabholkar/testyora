@@ -13,7 +13,7 @@ const breadCrumb = {
 const accordianDataLeft = [
   {
     id: 1,
-    question: "What is Sports Rehabilitation?",
+    question: "What is Rehabilitation?",
     answer:
       "Sint et et illum. Odio et nesciunt veritatis maxime quas esse dolore. Beatae vel et modi quidem. Modi aut dolorem sed necessitatibus ut voluptatem deleniti.",
   },
