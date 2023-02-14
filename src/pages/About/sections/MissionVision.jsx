@@ -88,7 +88,7 @@ function MissionVision() {
                                 patternContentUnits="objectBoundingBox"
                               >
                                 <image
-                                  xlinkHref="images/others/mission-image-1.jpg"
+                                  xlinkHref="/testyora/images/others/mission-image-1.jpg"
                                   preserveAspectRatio="none"
                                   width="1"
                                   height="1"
@@ -140,7 +140,7 @@ function MissionVision() {
                                 patternContentUnits="objectBoundingBox"
                               >
                                 <image
-                                  xlinkHref="images/heroslider/heroslider-image-1.jpg"
+                                  xlinkHref="/testyora/images/heroslider/heroslider-image-1.jpg"
                                   preserveAspectRatio="none"
                                   width="1"
                                   height="1"
@@ -198,7 +198,7 @@ function MissionVision() {
                                 patternContentUnits="objectBoundingBox"
                               >
                                 <image
-                                  xlinkHref="images/heroslider/heroslider-image-1.jpg"
+                                  xlinkHref="/testyora/images/heroslider/heroslider-image-1.jpg"
                                   preserveAspectRatio="none"
                                   width="1"
                                   height="1"

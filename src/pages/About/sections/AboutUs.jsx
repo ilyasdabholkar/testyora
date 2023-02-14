@@ -5,7 +5,7 @@ function AboutUs() {
   return (
     <div className="tm-section about-us-area bg-white tm-padding-section">
       <span className="bg-shape-2">
-        <img src="images/icons/bg-shape-3.png" alt="bg shape 3" />
+        <img src="/testyora/images/icons/bg-shape-3.png" alt="bg shape 3" />
       </span>
       <div className="container">
         <div className="row">
@@ -47,7 +47,7 @@ function AboutUs() {
                     patternContentUnits="objectBoundingBox"
                   >
                     <image
-                      xlinkHref="images/heroslider/heroslider-image-1.jpg"
+                      xlinkHref="/testyora/images/heroslider/heroslider-image-1.jpg"
                       preserveAspectRatio="none"
                       width="1"
                       height="1"

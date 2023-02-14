@@ -8,20 +8,21 @@ function ContactUsArea() {
         icon : "flaticon-placeholder",
         backicon : "flaticon-placeholder",
         heading : "Our location",
-        paragraph : "7415 Transcanadienne, Suite 100 St. Laurent, Quebec, Canada H45T 1Z22"
+        paragraph : "K – Sector, F1 Line, Shop no.03,Cheeta camp , Trombay, Mumbai – 400088.",
+        paragraph2 : "Shop no 2. Plot No 4,5,6,Sai Sthan CHS, Sector 29, Nerul (E)"
     },{
         id:2,
         icon : "flaticon-alarm-clock",
         backicon : "flaticon-alarm-clock",
-        heading : "Our location",
+        heading : "Our Timing",
         list : [
             {
                 key:"Monday - Friday",
-                data:"12:00 - 17:00"
+                data:"9.00 Am to 12.30 pm"
             },
             {
-                key:"Saturday",
-                data:"15:00 - 18:00"
+                key:"Monday - Friday",
+                data:"5.00 pm to 9.30 pm"
             },
             {
                 key:"Sunday",
@@ -33,19 +34,15 @@ function ContactUsArea() {
         id:3,
         icon : "flaticon-phone",
         backicon : "flaticon-phone",
-        heading : "Our location",
+        heading : "Our Contact",
         list : [
             {
                 key:"Phone",
-                data:"1 800 915 6270"
+                data:"+91 86680 18708"
             },
             {
-                key:"Tel",
-                data:"1 514 733 2010"
-            },
-            {
-                key:"Fax",
-                data:"1 866 535 1747"
+                key:"Phone",
+                data:"+91 88282 19119"
             }
         ]
     }]

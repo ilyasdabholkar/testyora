@@ -23,7 +23,10 @@ function DetailCards(props) {
             })}
           </ul>
         ) : (
-          <p>{props.data.paragraph}</p>
+          <>
+            <p>{props.data.paragraph}</p>
+            <p>{props.data.paragraph2}</p>
+          </>
         )}
       </div>
     </div>
